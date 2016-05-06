@@ -1,0 +1,28 @@
+name: Jeff Sudman
+favicon: null
+layout_spectrum: 0.5677955078426749
+typography_spectrum: 0.37974306591786444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6921684769913554
+  lightness: 0.6398364573251456
+  saturation: 0.353134801145643
+  rhythmicContrast: 0.184844987699762
+purpose: []
