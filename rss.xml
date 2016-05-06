@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jeff Sudman]]></title>
         <description><![CDATA[Jeff Sudman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jeff-sudman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 18:31:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 18:34:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeff-sudman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/666e2453-9bbe-4760-9223-9d2e92fde271.jpg">]]></description>
+            <link>https://thegrid.ai/jeff-sudman/rear-end-shots/index.html</link>
+            <guid isPermaLink="false">5d6bc96a-6abe-4349-bf76-c2c6b906174e</guid>
+            <pubDate>Fri, 06 May 2016 18:33:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09f843f1-0fd8-4b47-a15c-5b2b5575c1e5.jpg">]]></description>
-            <link>undefinedamazing-ramble/index.html</link>
+            <link>https://thegrid.ai/jeff-sudman/amazing-ramble/index.html</link>
             <guid isPermaLink="false">5a7bce41-ca33-4dc1-b9e2-9a3e553f78ef</guid>
             <pubDate>Fri, 06 May 2016 18:31:13 GMT</pubDate>
         </item>
